@@ -1,0 +1,44 @@
+_repo: Lost-Art_67923
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Orban, Paul
+    birthdate: 1896
+    deathdate: 1974
+    gutenberg_agent_id: '34272'
+    url: http://www.gutenberg.org/2009/agents/34272
+creator:
+  author:
+    agent_name: Smith, George O. (George Oliver)
+    aliases:
+    - Smith, George Oliver
+    - Long, Wesley
+    birthdate: 1911
+    deathdate: 1981
+    gutenberg_agent_id: '8137'
+    url: http://www.gutenberg.org/2009/agents/8137
+    wikipedia: https://en.wikipedia.org/wiki/George_O._Smith
+description: ''
+gutenberg_issued: '2022-04-25'
+identifiers:
+  gutenberg: '67923'
+language: en
+pgterms:marc905: 20220221124429smith
+pgterms:marc906: '1943'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Street & Smith Publications, Incorporated,1943.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Venus Equilateral
+subjects:
+- !lcc 'PS'
+- !lcsh 'Electrical engineers -- Fiction'
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Martians -- Fiction'
+- !lcsh 'Science fiction'
+- GITenberg
+title: Lost Art
+url: http://www.gutenberg.org/ebooks/67923
